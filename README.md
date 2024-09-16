@@ -1,4 +1,6 @@
 # About Me:
+---
+[![](https://visitcount.itsvg.in/api?id=ArfanAnulal&icon=1&color=0)](https://visitcount.itsvg.in)
 
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/bffbe056-5cf5-48d2-8da4-64518ff2f375)
 
@@ -21,7 +23,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArfanAnulal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ArfanAnulal&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
