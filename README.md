@@ -1,6 +1,6 @@
 # About Me:
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=ArfanAnulal)
+![Profile viewers](https://komarev.com/ghpvc/?username=ArfanAnulal&label=Profile%20viewers&color=0e75b6&style=flat)
 
 
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/bffbe056-5cf5-48d2-8da4-64518ff2f375)
