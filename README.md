@@ -1,6 +1,7 @@
 # About Me:
 
-[![](https://visitcount.itsvg.in/api?id=ArfanAnulal&icon=1&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=ArfanAnulal)
+
 
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/bffbe056-5cf5-48d2-8da4-64518ff2f375)
 
