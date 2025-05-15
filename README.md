@@ -4,8 +4,8 @@
 
 ![Banner](https://github.com/user-attachments/assets/bffbe056-5cf5-48d2-8da4-64518ff2f375)
 
-> Full Stack Developer | GCP Facilitator | Tech Lead @ GDG | AI Integration Enthusiast  
-> I love solving real-world problems through scalable, AI-powered web applications.
+> Full Stack Developer | GCP Facilitator | Tech Lead @ GDG 
+> For me the fun part about coding up a project is not that it works successfully, it's when you get a bug that drives you crazy for hours looking for a fix. And finally...finally when you fix it...the satisfaction that brings me is insurmountable
 
 ---
 
@@ -13,8 +13,9 @@
 
 - 🛠️ Leading AI integrations at **Supe AI**
 - ☁️ Facilitating Google Cloud sessions via **Arcade Facilitator & GDG**
-- 🚀 Building full-stack apps using **Next.js + Vertex AI**
-- 📈 Honing skills in **DSA**, **System Design**, and **Cloud Native Development**
+- 🚀 Building full-stack apps using **Next.js, MERN**
+- ✨ Deploying apps using **Vercel, Render**
+- 📈 Improving skills in **DSA**, **System Design**, and **Cloud Native Development**
 
 ---
 
