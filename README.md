@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Arfan Anulal
+# 👋 Hey there! I'm Arfan V Anulal
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArfanAnulal&label=Profile%20Views&color=0e75b6&style=flat)
 
