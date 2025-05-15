@@ -70,7 +70,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧾 [Financio – Personal Finance Tracker](https://github.com/ArfanAnulal/financio)
+### 🧾 Financio – Personal Finance Tracker
 A full-stack expense tracker with live graph insights.  
 Tech: React, Express, MongoDB, Chart.js
 
