@@ -72,11 +72,11 @@
 ## 🚀 Featured Projects
 
 ### 🧾 Financio – Personal Finance Tracker
-A full-stack expense tracker with live graph insights.  
-Tech: React, Express, MongoDB, Chart.js
+A full-stack expense tracker with authetication and Admin dashboard.  
+Tech: React, Express, MongoDB
 
-### 🗳️ School Electoral System
-Web app to digitize school elections securely with admin dashboard.
+### ⚽ Futball.io - Football Standings and Score Tracker
+Web app to find football match scores and standings of a specific season in 3 different leagues.
 
 ### 📧 Gmail-like Email Subsystem
 Desktop email client using **Python (Tkinter)** & **MySQL** to simulate inbox, compose, send, and database features.
