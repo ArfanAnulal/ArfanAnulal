@@ -90,10 +90,10 @@ Desktop email client using **Python (Tkinter)** & **MySQL** to simulate inbox, c
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ArfanAnulal&theme=react&show_icons=true&hide_border=false" />
+<img src="https://stats-gamma-jet.vercel.app/api?username=ArfanAnulal&theme=react&show_icons=true&hide_border=false" />
 
 <!-- Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArfanAnulal&theme=react&hide_border=false&layout=compact" />
+<img src="https://stats-gamma-jet.vercel.app/api/top-langs/?username=ArfanAnulal&theme=react&hide_border=false&layout=compact" />
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=ArfanAnulal&theme=react&hide_border=false" />
