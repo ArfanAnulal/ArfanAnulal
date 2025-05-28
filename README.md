@@ -12,7 +12,7 @@
 ## 🧠 Currently Working On
 
 - 🛠️ Leading AI integrations at **Supe AI**
-- ☁️ Facilitating Google Cloud sessions via **Arcade Facilitator & GDG**
+- ☁️ Facilitating Google Cloud sessions via **Arcade Facilitator & GDG On Campus VJCET**
 - 🚀 Building full-stack apps using **Next.js, MERN**
 - ✨ Deploying apps using **Vercel, Render**
 - 📈 Improving skills in **DSA**, **System Design**, and **Cloud Native Development**
