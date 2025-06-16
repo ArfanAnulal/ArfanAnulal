@@ -4,18 +4,18 @@
 
 ![Banner](https://github.com/user-attachments/assets/bffbe056-5cf5-48d2-8da4-64518ff2f375)
 
-> - Full Stack Developer | GCP Facilitator | Tech Lead @ GDG On Campus VJCET <br/>
+> - Full Stack & Cross-Platform Developer | GCP Facilitator | Tech Lead @ GDG On Campus VJCET  
 > - For me the fun part about coding up a project is not that it works successfully, it's when you get a bug that drives you crazy for hours looking for a fix. And finally....finally when you fix it....the satisfaction that brings me is insurmountable
 
 ---
 
 ## 🧠 Currently Working On
 
+- 🧩 Exploring **Riverpod**, **Dio**, and **Sembast** with Flutter
 - 🛠️ Leading AI integrations at **Supe AI**
 - ☁️ Facilitating Google Cloud sessions via **Arcade Facilitator & GDG On Campus VJCET**
-- 🚀 Building full-stack apps using **Next.js, MERN**
-- ✨ Deploying apps using **Vercel, Render**
-- 📈 Improving skills in **DSA**, **System Design**, and **Cloud Native Development**
+- 🚀 Building full-stack apps using **Next.js**, **MERN**
+- 📈 Leveling up in **DSA**, **System Design**, and **Cloud Native Development**
 
 ---
 
@@ -36,26 +36,29 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### 📱 Mobile / Cross-Platform  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-75AADB?style=flat-square&logo=dependabot&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-0076CE?style=flat-square&logo=axios&logoColor=white)
+![Sembast](https://img.shields.io/badge/Sembast-00BFA6?style=flat-square&logo=databricks&logoColor=white)
 
 ### 🚀 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
 
 ### 🛢️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Sembast](https://img.shields.io/badge/Sembast-00BFA6?style=flat-square&logo=databricks&logoColor=white)
 
 ### ☁️ Cloud / AI  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -73,15 +76,15 @@
 
 ## 🚀 Featured Projects
 
-### 🧾 Financio – Personal Finance Tracker
-A full-stack expense tracker with authetication and Admin dashboard.  
+### 🧾 Financio – Personal Finance Tracker  
+A full-stack expense tracker with authentication and Admin dashboard.  
 Tech: React, Express, MongoDB
 
-### ⚽ Futball.io - Football Standings and Score Tracker
-Web app to find football match scores and standings of a specific season in 3 different leagues.
+### ⚽ Futball.io – Football Standings & Score Tracker  
+Web app to check football scores and seasonal standings across top leagues.
 
-### 📧 Gmail-like Email Subsystem
-Desktop email client using **Python (Tkinter)** & **MySQL** to simulate inbox, compose, send, and database features.
+### 📧 Gmail-like Email Subsystem  
+A desktop client using **Python (Tkinter)** & **MySQL** for inbox, compose, and database simulation.
 
 ---
 
@@ -89,17 +92,14 @@ Desktop email client using **Python (Tkinter)** & **MySQL** to simulate inbox, c
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img src="https://stats-gamma-jet.vercel.app/api?username=ArfanAnulal&theme=react&show_icons=true&hide_border=false" />
 
-<!-- Language Stats -->
 <img src="https://stats-gamma-jet.vercel.app/api/top-langs/?username=ArfanAnulal&theme=react&hide_border=false&layout=compact" />
 
-<!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=ArfanAnulal&theme=react&hide_border=false" />
 
 </div>
 
 ---
 
-<!-- Made with ❤️ by Arfan — using Shields.io, StreakStats, and Markdown magic ✨ -->
+<!-- Made with ❤️ by Arfan — now with Flutter & Riverpod magic ✨ -->
