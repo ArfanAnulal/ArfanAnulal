@@ -4,7 +4,7 @@
 
 ![Banner](https://github.com/user-attachments/assets/bffbe056-5cf5-48d2-8da4-64518ff2f375)
 
-> - Full Stack & Cross-Platform Developer | GCP Facilitator | Tech Lead @ GDG On Campus VJCET  
+> - Full Stack & Cross-Platform Developer | Fullstack Intern @ Repatria | Campus Lead @ TinkerHub VJCET  
 > - For me the fun part about coding up a project is not that it works successfully, it's when you get a bug that drives you crazy for hours looking for a fix. And finally....finally when you fix it....the satisfaction that brings me is insurmountable
 
 ---
