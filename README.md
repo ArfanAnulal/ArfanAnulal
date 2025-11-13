@@ -12,8 +12,8 @@
 ## 🧠 Currently Working On
 
 - 🧩 Exploring **Riverpod**, **Dio**, and **Sembast** with Flutter
-- 🛠️ Leading AI integrations at **Supe AI**
-- ☁️ Facilitating Google Cloud sessions via **Arcade Facilitator & GDG On Campus VJCET**
+- 🛠️ Leading Full-Stack App Development at **Repatria**
+- ☁️ Facilitating Study Jams via **TinkerHub VJCET**
 - 🚀 Building full-stack apps using **Next.js**, **MERN**
 - 📈 Leveling up in **DSA**, **System Design**, and **Cloud Native Development**
 
