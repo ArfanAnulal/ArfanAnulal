@@ -96,7 +96,7 @@ A desktop client using **Python (Tkinter)** & **MySQL** for inbox, compose, and 
 
 <img src="https://stats-gamma-jet.vercel.app/api/top-langs/?username=ArfanAnulal&theme=react&hide_border=false&layout=compact" />
 
-<img src="https://streak-stats.demolab.com/?user=ArfanAnulal&theme=react&hide_border=false" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfanAnulal&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 
 </div>
 
